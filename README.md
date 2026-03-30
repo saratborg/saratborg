@@ -4,6 +4,9 @@
 # Olá, eu sou a Sara Borges 👋
 
 **Desenvolvedora Full-Stack** · Brasília, DF · Aberta a oportunidades 🟢
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saraborgesit-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saraborgesit)
+[![Gmail](https://img.shields.io/badge/Email-saratborg@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:saratborg@gmail.com)
+
 
 </div>
 
