@@ -15,7 +15,7 @@
 
 ## Sobre mim
 
-Recém-formada em **Análise e Desenvolvimento de Sistemas** (Gran Curitiba, 2025), com perfil full-stack e experiência prática em suporte a implementação de sistemas, migração de dados e organização de processos digitais.
+Recém-formada em **Análise e Desenvolvimento de Sistemas** (Gran Curitiba, 2025), full-stack e experiência prática em suporte a implementação de sistemas.
 
 Tenho vivência real com o ambiente empresarial: atuei como assistente administrativa em uma empresa de varejo, onde participei ativamente da implantação de um sistema ERP/PDV — organizando dados, apoiando a equipe e ajudando a migrar processos manuais para um sistema integrado. Essa experiência me deu uma visão de como a tecnologia resolve problemas reais.
 
